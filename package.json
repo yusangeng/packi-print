@@ -1,6 +1,6 @@
 {
   "name": "packi-print",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "Log printer of cli.",
   "main": "lib/index.js",
   "jsnext:main": "src/index.ts",
@@ -58,6 +58,6 @@
     "all": true
   },
   "publishConfig": {
-    "registry": "https://registory.npmjs.org/"
+    "registry": "https://registry.npmjs.org/"
   }
 }
